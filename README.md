@@ -27,8 +27,6 @@ That combo is rare and powerful! i understand people *and* patterns, which is ex
 --> 
 ## 🧰 Languages & Tools
 
-<div align="center">
-  
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
@@ -46,8 +44,6 @@ That combo is rare and powerful! i understand people *and* patterns, which is ex
 
   <!-- Tableau (custom icon) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40" height="40"/>
-
-</div>
 
 ## 📈 GitHub Stats
 
