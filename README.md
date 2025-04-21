@@ -20,8 +20,8 @@ That combo is rare and powerful! i understand people *and* patterns, which is ex
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats
-[
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=kureshimustakim&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=kureshimustakim&show_icons=true&theme=radical)
+
+https://github-readme-stats.vercel.app/api?username=kureshimustakim&show_icons=true&theme=radical
 
 ## 📫 Connect With Me
 
