@@ -21,7 +21,8 @@ That combo is rare and powerful! i understand people *and* patterns, which is ex
 
 ## 📈 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=kureshimustakim&show_icons=true&theme=radical
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kureshimustakim&show_icons=true&theme=radical)
+
 
 ## 📫 Connect With Me
 
