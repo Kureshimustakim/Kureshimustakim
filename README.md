@@ -1,6 +1,6 @@
 ## 👋 Hi, there
 
-<img align= "right" alt="GIF" width="500px" height="280px" src="https://github.com/Kureshimustakim/Kureshimustakim/blob/main/Images/profile.gif/">
+<img align= "right" alt="GIF" width="500px" height="280px" src="https://github.com/Kureshimustakim/Kureshimustakim/blob/main/profile.gif/">
 
 # Welcome to my GitHub profile!
 
