@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning: Advance AI
-_ 👯 I’m looking to collaborate on any end to end Data science project.
-_ 💬 Ask me about anything, I'll try my best to share my knowledge.
+- 👯 I’m looking to collaborate on any end to end Data science project.
+- 💬 Ask me about anything, I'll try my best to share my knowledge.
 - 📫 How to reach me: kureshi.mustkim@outlook.com
 - 🥅 2025 Goals: To be more productive and successful
 - ⚡ Fun fact: I'm data scientist in the making — with a B.Com background and 11 years of sales expertise — blending business brains with machine learning magic.  
@@ -20,8 +20,8 @@ That combo is rare and powerful! i understand people *and* patterns, which is ex
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+[
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=kureshimustakim&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=kureshimustakim&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
 
