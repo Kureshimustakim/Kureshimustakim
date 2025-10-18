@@ -3,7 +3,8 @@
 <p align="left">
   I'm a Data Scientist with a unique background: **11 years of sales expertise** combined with a B.Com degree.
   <br><br>
-  My strength is blending technical ML skills with a deep understanding of business and customer behavior. I don't just build models; I build solutions that solve real-world problems.
+  My strength is blending technical ML skills with a deep understanding of business and customer behavior. I don't just build models. 
+  I build solutions that solve real-world problems.
 </p>
 
 <p align="left">
