@@ -82,18 +82,9 @@
 <p align="center">
   <a href="https://www.credly.com/badges/f03981e1-2a41-4c2a-83fe-4a4d67e9bec9/public_url">
     <img src='https://images.credly.com/size/680x680/images/3e42e90a-da56-4680-9f9b-140e8a1dd6d4/blob' alt="IBM Data Science Methodologies Certificate" width="150" />
-  </a>
-  
-  <a href = "https://www.credly.com/badges/18d9531d-ed1e-4cbf-9486-3387b30fe717/public_url">
-  <img src= "https://images.credly.com/size/680x680/images/aa8b8df6-98d7-4bf5-9546-dd4c1103d718/blob" alt = 'IBM Data Science Tools' wideth='150' />
-  </a>
-
-  <a href = "https://www.credly.com/badges/b4ab73c5-6fa8-44e6-b030-39dffb920738/public_url">
-  <img src= "https://images.credly.com/size/680x680/images/b40db465-587f-45eb-a854-af8630a630e7/blob" alt = 'IBM Python for Data Science' wideth='150' />
-  </a>
-
-  <a href = "https://www.credly.com/badges/b4ab73c5-6fa8-44e6-b030-39dffb920738/public_url">
-  <img src= "https://images.credly.com/size/680x680/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob" alt = 'IBM Machine Learning with Python' wideth='150' />
+    <img src= "https://images.credly.com/size/160x160/images/aa8b8df6-98d7-4bf5-9546-dd4c1103d718/blob" alt = 'IBM Data Science Tools' wideth='150' />
+    <img src= "https://images.credly.com/size/160x160/images/b40db465-587f-45eb-a854-af8630a630e7/blob" alt = 'IBM Python for Data Science' wideth='150' />
+    <img src= "https://images.credly.com/size/160x160/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob" alt = 'IBM Machine Learning with Python' wideth='150' />
   </a>
   </p>
 ---
